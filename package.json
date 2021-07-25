@@ -20,6 +20,7 @@
     "ethers": "^5.0.24",
     "hardhat": "^2.0.6",
     "hardhat-deploy": "^0.7.0-beta.39",
+    "solidity-coverage": "^0.7.16",
     "web3": "^1.2.9"
   },
   "dependencies": {
@@ -31,8 +32,10 @@
     "babel-eslint": "^10.1.0",
     "dotenv": "^8.2.0",
     "eslint": "^7.22.0",
+    "g": "^2.0.1",
     "mocha-skip-if": "^0.0.3",
-    "transform": "^1.1.2"
+    "transform": "^1.1.2",
+    "yarn": "^1.22.10"
   },
   "mocha": {
     "timeout": 10000000
